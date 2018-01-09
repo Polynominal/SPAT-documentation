@@ -2,12 +2,7 @@ SPAT
 ========
 
 
-
-Contents:
-*********
-.. toctree::
-   :maxdepth: 2
-   
-   Database
+Hello world
+-----------
    
    
