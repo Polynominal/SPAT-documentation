@@ -14,8 +14,6 @@ Set up
 4. Set up the database access
  - add config.php to your project form 
  :download:`here <src/confirm.php>`
- :download:`here <src/US20.txt>`
- :download:`here <src/confirm.php>`
 
 
  
