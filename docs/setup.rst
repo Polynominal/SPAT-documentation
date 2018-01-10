@@ -15,7 +15,9 @@
 - rename config.php-example to config.php
 - replace the code with:
 
-::
+.. code-block:: php
+   :linenos:
+   
   <?php
   namespace SPATApp;
 
