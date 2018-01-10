@@ -32,4 +32,11 @@ Once you are done press the green *commit changes* button
 
 # Database
 
-
+## Fields
+* Platform
+* Country
+* Overall 
+* Rating 
+* City
+* Date
+* Comment section
