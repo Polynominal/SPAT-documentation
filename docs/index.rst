@@ -36,14 +36,13 @@ Once you are done press the green *commit changes* button
 Database
 --------------
 
-* Setup
-
+Setup
+~~~~~~~~~
 
 :doc:`setup`
 
-
-
-* Fields
+Fields
+~~~~~~~~~
 
 - Platform
 - Country
