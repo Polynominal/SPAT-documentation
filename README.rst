@@ -63,4 +63,4 @@ Fields
     :numbered:
     :titlesonly:
 
-    setup.rst
+    docs/setup
