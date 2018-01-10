@@ -30,7 +30,7 @@ Once you are done press the green *commit changes* button
 
 # Database
 ## Setup
-[ click here ](setup.md)
+[ click here ](/docs/setup.md)
 
 ## Fields
 * Platform
