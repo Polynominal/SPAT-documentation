@@ -1,22 +1,27 @@
+******
 Info
-======
+******
 
-## Useful Links:
+Useful Links:
+##############
 
+Trello
+##############
 
-## Trello
 https://trello.com/invite/b/7HaltxKu/b9e3cd927c37665723577be9d0d4891c/spat-project
 
 Trello maintains the backlog as well as to-do lists for all the group members.
 
-## Slack group
+Slack group
+##############
 
 https://spatproject.slack.com/join/shared_invite/enQtMjk1NTg4NTE3NzQ1LTVkYTZjODA5ZDgyZDJhNjEzN2U3YjQ1NmQzOGRjMDkxODgwNTljZDNmNjY1MGI5MWU0MTIyMTMwMTBhZGVhN2U
 
 The slack group is for communication with the client and any other formal communication.
 
 
-## How to use this wiki
+How to use this wiki
+#####################
 
 To edit this file click on "edit on github"
 
@@ -29,11 +34,19 @@ Once you are done press the green *commit changes* button
   
 
 
-# Database
-## Setup
-[ click here ](/docs/setup.md)
+Database
+##############
 
-## Fields
+Setup
+**********************
+
+:doc:`click here </setup>`
+
+
+
+Fields
+**********************
+
 * Platform
 * Country
 * Overall 
@@ -41,3 +54,10 @@ Once you are done press the green *commit changes* button
 * City
 * Date
 * Comment section
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :titlesonly:
+
+    setup.rst
