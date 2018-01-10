@@ -2,7 +2,9 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Developer Documentation
+   :caption: Documentation
   
   README
-  docs/setup
+  setup
+  data
+  

@@ -58,9 +58,3 @@ Fields
 - Date
 - Comment section
 
-.. _Basic-Setup:
-
-.. toctree::
-   :maxdepth: 2
-   
-   docs/setup
