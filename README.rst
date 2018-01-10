@@ -45,7 +45,7 @@ Database
 Setup
 ~~~~~~~~~
 
-:doc:`click here <docs/setup>`
+:doc:`click here <setup>`
 
 Fields
 ~~~~~~~~~
