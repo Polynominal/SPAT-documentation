@@ -5,11 +5,11 @@ Set up
 2. Run phpstorm and File -> Open directory and select the location of the git repository.
 3. install dependencies
  - Right click on composer.json and install*
- - if you dont have *install* select composer -> init composer.
- - install composer or run composer.phar
-  - Download composer at getcomposer.org
-  - after installation open command promt, cd into your project directory.
-  - run composer install
+ - if you dont have *install*
+   - Download composer at getcomposer.org
+   - install composer or run composer.phar
+   - after installation open command promt, cd into your project directory.
+   - run composer install
   
  - if you have any errors with php, install the most recent version.
  
