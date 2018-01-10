@@ -62,6 +62,5 @@ Fields
 
 .. toctree::
    :maxdepth: 2
-   :caption: Developer Documentation
-
+   
    docs/setup
