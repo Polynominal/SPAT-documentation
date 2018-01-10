@@ -23,6 +23,6 @@ Set up
    - cd into the repository directory and execute: :code:'php "%~dp0phpunit.phar" %*'
    
   - If you have an error that mentions "driver" and you crash on the first database assertion
-    - find php.ini in your php install directory.  
-    - uncomment :code:'extension=php_pdo_mysql.dll'
+   - find php.ini in your php install directory.
+   - uncomment :code:'extension=php_pdo_mysql.dll'
   - If you get an error check that you have :download:`config.php <src/config.php>` file in your project directory.
