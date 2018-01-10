@@ -31,6 +31,8 @@ Once you are done press the green *commit changes* button
 
 
 # Database
+## Setup
+[ click here ](setup.md)
 
 ## Fields
 * Platform
