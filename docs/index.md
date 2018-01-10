@@ -22,13 +22,11 @@ To edit this file click on "edit on github"
 
 **The file is written in markdown.**
 The documentation for this is available here:
-http://www.sphinx-doc.org/en/stable/rest.html
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 Use the *preview changes* button to preview the document.
-Once you are done press the green "commit changes" button
-
-If you aren't comfortable with rst or don't want to learn it you can convert a doc to rst and upload the rst here.
-( I may automate this process )   
+Once you are done press the green *commit changes* button
+  
 
 
 # Database
