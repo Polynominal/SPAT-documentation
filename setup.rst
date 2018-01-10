@@ -20,9 +20,7 @@ Set up
  - Download php unit test phar file form here: https://phpunit.de
  *For windows users*
    - Make sure that you have php in your path. (open cmd and type php --version if it doesn't work u need to set it up)
-   - cd into the repository directory and execute:
-   .. code-block:: batch
-      php "%~dp0phpunit.phar" %*
+   - cd into the repository directory and execute: :code:'php "%~dp0phpunit.phar" %*'
    
   - If you have an error that mentions "driver" and you crash on the first database assertion
     - find php.ini in your php install directory.  
