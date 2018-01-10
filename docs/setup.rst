@@ -12,6 +12,6 @@ Set up
  - if you have any errors with php, install the most recent version.
  
 4. Set up the database access
- - add config.php to your project form here 	:download:`config.php </src/config.php>`
+ - add config.php to your project form here 	:download:`config.php <../src/config.php>`
  
 5. Run the tests to check if you can connect to the database.
