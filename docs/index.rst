@@ -40,7 +40,7 @@ Database
 Setup
 **********************
 
-:doc:`click here </setup>`
+:doc:`setup`
 
 
 
