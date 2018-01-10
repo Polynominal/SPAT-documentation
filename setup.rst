@@ -12,7 +12,7 @@ Set up
  - if you have any errors with php, install the most recent version.
  
 4. Set up the database access
- - add config.php to your project form :download:`here <src/confirm.php>`
+ - add config.php to your project form :download:`here <src/config.php>`
 
 
  
