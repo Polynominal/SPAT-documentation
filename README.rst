@@ -45,7 +45,7 @@ Database
 Setup
 ~~~~~~~~~
 
-:doc:`docs/setup`
+:doc:`click here <docs/setup>`
 
 Fields
 ~~~~~~~~~
@@ -58,9 +58,10 @@ Fields
 - Date
 - Comment section
 
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :titlesonly:
+.. _Basic-Setup:
 
-    docs/setup
+.. toctree::
+   :maxdepth: 2
+   :caption: Developer Documentation
+
+   docs/setup
