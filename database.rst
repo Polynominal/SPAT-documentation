@@ -5,7 +5,7 @@ Database
 Database Setup
 --------------
 
-
+Detailed database setup instructions can be found on the setup page, :doc:`here <setup>`.
 
 Entity Relationship Diagram
 ---------------------------
