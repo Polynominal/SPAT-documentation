@@ -15,9 +15,7 @@ Entity Relationship Diagram
 Data JSON
 ---------
 
-The JSON file containing the data contained within the database schema can be found here_. 
-
-.. _here: src/data.json
+The JSON file containing the data contained within the database schema can be found :download:`here <src/data.json>`
 
 The JSON above and the JSON served by the API is in the following format:
 
@@ -57,3 +55,5 @@ The JSON above and the JSON served by the API is in the following format:
           }
       }
   }
+
+Test
