@@ -3,18 +3,19 @@ Set up
 
 1. Clone the git repository using git (sourcetree) etc.
 2. Run phpstorm and File -> Open directory and select the location of the git repository.
-3. install dependencies
+3. Install dependencies
  - Right click on composer.json and install*
- - if you dont have *install*
+ - If you dont have *install*
    - Download composer at getcomposer.org
-   - install composer or run composer.phar
-   - after installation open command promt, cd into your project directory.
-   - run composer install
+   - Install composer or run composer.phar
+   - After installation open Command Prompt on Windows or Terminal on Mac or Linux, cd into your project directory.
+   - Run composer install
   
- - if you have any errors with php, install the most recent version.
+ - If you have any errors with php, install the most recent version.
  
 4. Set up the database access
- - add config.php to your project form :download:`here <src/config.php>`
+ - Add config.php to your project form :download:`here <src/config.php>`
+ - Run the schema.sql file in your MySQL server software or the MySQL CLI.
  
 5. Run the tests to check if you can connect to the database.
  - Download php unit test phar file form here: https://phpunit.de
@@ -23,6 +24,6 @@ Set up
    - cd into the repository directory and execute: :code:'php "%~dp0phpunit.phar" %*'
    
   - If you have an error that mentions "driver" and you crash on the first database assertion
-   - find php.ini in your php install directory.
-   - uncomment :code:'extension=php_pdo_mysql.dll'
+   - Find php.ini in your php install directory.
+   - Uncomment :code:'extension=php_pdo_mysql.dll'
   - If you get an error check that you have :download:`config.php <src/config.php>` file in your project directory.
